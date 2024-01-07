@@ -1,3 +1,4 @@
+import java.util.*;
 public class problem4{
     class Solution {
         public int numberOfArithmeticSlices(int[] nums) {
